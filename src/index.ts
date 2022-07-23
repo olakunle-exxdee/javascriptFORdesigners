@@ -4,22 +4,22 @@ const pages = [
   {
     Background: "#edc7a9",
     Circle: "#3e78ed",
-    Copy: "a Brooklyn-based graphic designer",
+    Copy: "a Paris-based Product Manager.🧕🏾",
   },
   {
     Background: "#a1fffe",
     Circle: "#e34a47",
-    Copy: "Kanye West's biggest fan",
+    Copy: "Project Oreinted Person",
   },
   {
     Background: "#d3c7f3",
     Circle: "#f7fe00",
-    Copy: "looking for a job at the start of October",
+    Copy: "looking for a job at the start of September",
   },
   {
     Background: "#faffb8",
     Circle: "#b472e6",
-    Copy: "letting you <a href='pdf.pdf'>download her PDF</a>",
+    Copy: "letting you <a href='pdf.pdf'>download my Resume>",
   },
 ];
 

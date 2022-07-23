@@ -1,3 +1,3 @@
-# javascriptFORdesigners
+# typecriptFORdesigners
 
 ##

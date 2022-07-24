@@ -19,7 +19,7 @@ const pages = [
     {
         Background: "#faffb8",
         Circle: "#b472e6",
-        Copy: "letting you <a href='pdf.pdf'>download my Resume>",
+        Copy: "letting you <a href='www.shorturl.at/eGQ12'>download my Resume>",
     },
 ];
 const nextTag = document.querySelector("footer img.next");
